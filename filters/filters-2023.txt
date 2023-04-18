@@ -1862,3 +1862,6 @@ hacoos.com##+js(aopr, detectAdBlock)
 ! https://github.com/uBlockOrigin/uAssets/issues/17642
 @@||tbdailynews.com^$ghide
 tbdailynews.com##[id^="custom_html"]
+
+! tumblr anti-adblock
+tumblr.com##+js(nostif, adFreeCtaBanner)
